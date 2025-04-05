@@ -1,12 +1,12 @@
 # Pups Forever Privacy Policy
 
 ## Introduction
-This Privacy Policy governs the use of the software application created with GDevelop, named **“Pups Forever”**, developed by Leicam Studios.
+This Privacy Policy governs the use of the software application named **“Pups Forever”**, developed by Leicam Studios in **Android Studio**.
 
 ## Information Collection
 
 ### Personal Information
-The game **“Pups Forever”** does not collect, store, or share any personal information from its users. We do not request data such as name, address, email, or other information that could personally identify the user.
+The game **“Pups Forever”** does not collect, store, or share any personal information from its users. We do not request data such as name, address, email, or any other information that could personally identify the user.
 
 ### Usage Data
 We may collect non-personally identifiable usage data to improve the user experience. This includes information on how the game is accessed and used, such as performance logs, crash data, device type, and operating system.
@@ -24,8 +24,7 @@ We take security measures to protect the information collected against unauthori
 This Privacy Policy may be updated periodically. We recommend that you review this page regularly for any changes. Changes will be effective immediately upon being posted on this page.
 
 ## Contact
-If you have any questions or concerns about this Privacy Policy, please contact us at:
+If you have any questions or concerns about this Privacy Policy, please contact us at:  
 **[leicamOdraude@gmail.com](mailto:leicamOdraude@gmail.com)**
 
 This policy is effective as of **05/04/2025**.
-
